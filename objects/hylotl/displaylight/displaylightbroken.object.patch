@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/flickerIntensityVariance",
+        "value": 0
+    },
+    {
+        "op": "replace",
+        "path": "/flickerMinIntensity",
+        "value": 0.5
+    }
+]
