@@ -1,5 +1,5 @@
 # NoFlashingLights
-Mod that stops lights from flashing in Starbound.
+Mod that stops lights from flashing in Starbound. Sets flickering lights to 50% brightness instead, and sets flashing alarms to be constantly red.
 
 Currently patches:
 flickeringfluorescentlight
