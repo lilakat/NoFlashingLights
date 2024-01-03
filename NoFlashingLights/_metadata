@@ -1,0 +1,10 @@
+{
+  "author" : "lilakat",
+  "description" : "Mod that stops lights from flashing in Starbound.\n\nCurrently patches: flickeringfluorescentlight lightbulb prisonfloodlightBroken displaylightbroken underwaterlightsmallBroken redlightBroken protectoratebrokenlight apexshiplightBroken floodlightsmallflickering copperlantern\n\nand replaces alarm.lua to fix: alertlight redalert alarm\n\n(I'd have patched those ones too but it doesn't look like there's a way to do that)\n\ngithub link: https://github.com/lilakat/NoFlashingLights",
+  "friendlyName" : "No Flashing Lights",
+  "link" : "steam://url/CommunityFilePage/2970114050",
+  "name" : "NoFlashingLights",
+  "steamContentId" : "2970114050",
+  "tags" : "Miscellaneous|Planets and Environments|Dungeons|Furniture and Objects",
+  "version" : "1.2"
+}
