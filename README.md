@@ -11,6 +11,7 @@ redlightBroken
 protectoratebrokenlight
 apexshiplightBroken
 floodlightsmallflickering
+copperlantern
 
 and replaces alarm.lua to fix:
 alertlight
